@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941880414083",
+    "firebase_url": "https://bid-hub-default-rtdb.firebaseio.com",
+    "project_id": "bid-hub",
+    "storage_bucket": "bid-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941880414083:android:6a1b4f6b1c0d77626af0b6",
+        "android_client_info": {
+          "package_name": "com.example.auction_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941880414083-u2u5tbajvoai7898slpn56ae8g1jg1ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcFOVnavjIfBtFtH4miveXpQs5nvtXLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941880414083-u2u5tbajvoai7898slpn56ae8g1jg1ot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941880414083-dv5l1t3f5c6atbijekq4re5bnrbfp4m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.auctionApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
